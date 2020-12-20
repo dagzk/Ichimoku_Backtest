@@ -10,3 +10,6 @@ __Note: The author is not liable for any concerns regarding the reader's decisio
 - How to get financial data with and without credentials
 - Simple cryptocurrency analysis
 - Explanation and use of Ichimoku for backtesting strategy
+
+
+# Use https://nbviewer.jupyter.org/ to read Notebook with Interactive Plotly Graphs
