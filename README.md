@@ -12,4 +12,4 @@ __Note: The author is not liable for any concerns regarding the reader's decisio
 - Explanation and use of Ichimoku for backtesting strategy
 
 
-# Use https://nbviewer.jupyter.org/github/dagzk/Ichimoku_Backtest/blob/main/Ichimoku%20Backtesting.ipynb to read Notebook with Interactive Plotly Graphs
+#### Use https://nbviewer.jupyter.org/github/dagzk/Ichimoku_Backtest/blob/main/Ichimoku%20Backtesting.ipynb to read Notebook with Interactive Plotly Graphs
