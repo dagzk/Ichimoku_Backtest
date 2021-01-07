@@ -13,3 +13,4 @@ __Note: The author is not liable for any concerns regarding the reader's decisio
 
 
 #### Use https://nbviewer.jupyter.org/github/dagzk/Ichimoku_Backtest/blob/main/Ichimoku%20Backtesting.ipynb to read Notebook with Interactive Plotly Graphs.
+Use PDF file to read original publish file on December 20th 2020
