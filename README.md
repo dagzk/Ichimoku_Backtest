@@ -4,6 +4,8 @@ This project aims to learn how to apply the Ichimoku trading strategy on cryptoc
 
 __Note: The author is not liable for any concerns regarding the reader's decisions on personal financial strategies. This project was only made to gain new knowledge.__
 
+__Note 2 (February 19th 2021): Someone who invested in BTC or ETH using this analysis could have made some serious gains if he invested and stopped looking. Of course, there is absence of evidence that the opposite could have also happened. So far, Thanksgiving is still not here and the turkey is indeed well alive.__
+
 
 ### What This Notebook Shows:
 
