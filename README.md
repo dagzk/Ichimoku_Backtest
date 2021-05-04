@@ -14,5 +14,5 @@ __Note 2 (February 19th 2021): Someone who invested in BTC or ETH using this ana
 - Explanation and use of Ichimoku for backtesting strategy
 
 
-#### Use https://nbviewer.jupyter.org/github/dagzk/Ichimoku_Backtest/blob/main/Ichimoku%20Backtesting.ipynb to read Notebook with Interactive Plotly Graphs.
+#### Use https://nbviewer.jupyter.org/github/dagzk/Ichimoku_Backtest/tree/main/ to read Notebook with Interactive Plotly Graphs.
 Use PDF file to read original publish file on December 20th 2020
